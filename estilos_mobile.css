@@ -98,3 +98,10 @@ main h4{
     padding: 10px;
     margin: 5px;
 }
+
+main section article div.flex-fotos{
+    width: auto;
+    max-width: 1000px;
+    min-width: 320px;
+    margin: 5px;
+}
